@@ -6,7 +6,7 @@ Tucows Interview Exercise
 - Please create a fork of this repo in which you will attempt the exercise.
 - Create a new branch in the fork of this repo to attempt the exercise in, when you are done open a PR from that branch onto the main branch.
 - In a file called setup.md please include instructions on how to run and test you application
-- Feel free to select whichever language/framework you feel comfortable with
+- Please use GO or .NET for your solutions
 
 ## Tasks
 
